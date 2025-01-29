@@ -7,6 +7,8 @@ This project was created by **DeepSeek** to evaluate coding proficiency in HTML,
 
 ---
 
+![plot](./screenshot.png)
+
 ## How to Use
 1. **Drag and Drop:**
    - Drag an image or video file from your computer and drop it into the designated area.
